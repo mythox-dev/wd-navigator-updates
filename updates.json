@@ -3,13 +3,8 @@
     "wd-navigator@khs.org": {
       "updates": [
         {
-          "version": "2.10.0",
-          "update_link": "https://github.com/mythox-dev/wd-navigator-updates/releases/download/v2.10.0/wd_navigator-2.10.0.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "140.0"
-            }
-          }
+          "version": "2.11.0",
+          "update_link": "https://github.com/mythox-dev/wd-navigator-updates/releases/download/v2.11.0/wd_navigator-2.11.0.xpi"
         }
       ]
     }
